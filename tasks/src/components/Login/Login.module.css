@@ -1,0 +1,21 @@
+.ts-login-main-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: radial(to top, #DCDCDD , #000000 21% );
+    background: radial-gradient(circle at 40%, #000, #000 -5%, #000 76%, #736868 128%);
+}
+
+.ts-login-inner-box{
+    background-color: #e8e8e8;
+    height: 470px;
+    position: absolute;
+    top: 0;
+    margin: auto;
+    bottom: 0;
+    padding: 10px 140px;
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 10px 4px #000000;
+    border: 1px solid;
+}
